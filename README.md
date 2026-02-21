@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Manahil Zehra</h1>
-<h3 align="center">Full Stack MERN Developer | AI & NLP Enthusiast</h3>
+<h3 align="center">Full Stack MERN Developer </h3>
 
 <p align="center">
 Passionate about building scalable web applications and AI-powered solutions.  

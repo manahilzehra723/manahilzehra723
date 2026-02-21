@@ -1,1 +1,74 @@
-# Manahil zehra  <p align="center">   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" /> </p>  <h1 align="center">Hi 👋, I'm Manahil zehra</h1> <h3 align="center">Full Stack Web Developer | MERN Stack </h3>  ---  ## 👨‍💻 About Me - 🔭 **Currently working on:** **NPIT collage LMS**   - 🌱 **Learning:** Advanced **Tools** and **Techniques**   - 💬 **Ask me about:** MERN Stack, Web Development   - 📫 **Email:** **manahilzehra09876@gmail.com**    ---  ## 🛠️ Skills & Tools <p align="center">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /> ---  ## 🚀 Current Project: NLP AI-based Language Translator | NPIT collage LMS - **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, | NPIT collage LMS javaScript, Next.js,Express.js, Node.js, PostgreSQL - **Key Focus:**     - User friendly interface   - Speed optimization   - Building APIs    - **Objective:** Create an **User friendly interface** and scalable   ---  ## 📊 GitHub Stats <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=manahilzehra723&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manahilzehra723&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/> </p>  ---  ## 🌐 Connect with Me <p align="center">   <a href="mailto:manahilzehra09876@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>   <a href="(https://github.com/manahilzehra723)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>  
+# Manahil Zehra  
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Manahil Zehra</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🔭 **Currently working on:** **NPIT College LMS**
+- 🌱 **Learning:** Advanced tools and development techniques
+- 💬 **Ask me about:** MERN Stack, Web Development
+- 📫 **Email:** **manahilzehra09876@gmail.com**
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+</p>
+
+---
+
+## 🚀 Current Projects
+
+### 🔹 NLP AI-Based Language Translator
+- **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React
+- **Key Focus:**
+  - User-friendly interface
+  - Speed optimization
+  - API development
+- **Objective:** Create a scalable and user-friendly AI-based language translator.
+
+### 🔹 NPIT College LMS
+- **Tech Stack:** JavaScript, Next.js, Express.js, Node.js, PostgreSQL
+- **Key Focus:**
+  - Secure authentication system
+  - RESTful API development
+  - Responsive UI design
+- **Objective:** Develop a scalable and secure Learning Management System.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manahilzehra723&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manahilzehra723&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:manahilzehra09876@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/manahilzehra723">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
